@@ -1,6 +1,6 @@
 ## Getting Started
 
-1. Configure the `secrets.json` file following the `secrets.example.json` file
+1. Configure the `secrets.json` file following the `secrets.example.json` file (remove comments)
 2. `npm install`
 3. `npm run build`
 4. `npm start`
